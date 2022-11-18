@@ -1,5 +1,5 @@
 setwd("C:/Users/432/Documents/Xuba")
-library(golem)
+#library(golem)
 library(shinyanimate)
 library(shinycssloaders)
 library(shinydashboard)
